@@ -4,3 +4,10 @@
 <h1>My Name is David</h1>
 <br>
 <p>🙎‍♂️ Age : 11 years old</p>
+<p>🌀 Class : 6 Elementary School</p>
+<br>
+<p>✍️ Hobby : Coding Javascript</p>
+<br>
+<p>▪ Don't Make fun of me because I'm still a beginner ▪</p>
+<br>
+### Thank You 🙏🏻
