@@ -9,5 +9,4 @@
 <p>✍️ Hobby : Coding Javascript</p>
 <br>
 <p>▪ Don't Make fun of me because I'm still a beginner ▪</p>
-<br>
 ### Thank You 🙏🏻
